@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bersamamu-web/static/css/main.93de88ef.css",
+    "main.js": "/bersamamu-web/static/js/main.4919b1dd.js",
+    "static/js/787.5b40465c.chunk.js": "/bersamamu-web/static/js/787.5b40465c.chunk.js",
+    "static/media/logo.png": "/bersamamu-web/static/media/logo.20f41e6901c162a27105.png",
+    "static/media/logo2.png": "/bersamamu-web/static/media/logo2.03fd9e2f9da5f449f32a.png",
+    "index.html": "/bersamamu-web/index.html",
+    "main.93de88ef.css.map": "/bersamamu-web/static/css/main.93de88ef.css.map",
+    "main.4919b1dd.js.map": "/bersamamu-web/static/js/main.4919b1dd.js.map",
+    "787.5b40465c.chunk.js.map": "/bersamamu-web/static/js/787.5b40465c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93de88ef.css",
+    "static/js/main.4919b1dd.js"
+  ]
+}
